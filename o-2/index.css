@@ -1,0 +1,11 @@
+#venneliste {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: start;
+    margin-top: 1rem;
+}
+
+#venneliste div {
+    padding: 1rem;
+    border: 1px solid darkgrey;
+}
