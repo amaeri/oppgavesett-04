@@ -9,10 +9,9 @@ let filmer = ["Staying Alive", "Bad Moms", "A Star Is Born", "Mamma Mia"];
 filmer = [...filmer, "Mamma Mia 2"];
 filmer = ["Max Manus", ...filmer];
 
-console.log (filmer)
 
 // Oppgave 1c
-console.log ("Filmen på plass nummer 3 i arrayet er");
+console.log ("Filmen på plass nummer 3 i arrayet er:");
 console.log ( filmer [3] );
 
 // Oppgave 1d
